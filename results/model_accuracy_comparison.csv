@@ -1,0 +1,8 @@
+Model,Accuracy
+1 Hidden Layer,0.975
+2 Hidden Layers,0.97
+3 Hidden Layers,0.9525
+32 Neurons,0.9575
+64 Neurons,0.97
+Learning Rate 0.01,0.935
+Learning Rate 0.0001,0.945
